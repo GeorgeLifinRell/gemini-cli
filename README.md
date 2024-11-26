@@ -2,7 +2,7 @@
 
 ## About
 
-A simple cli for the Google Gemini. Get your free Gemini API key from
+A simple cli for the Google Gemini. Get your free Gemini API key from https://ai.google.dev/
 
 ## How to compile
 
