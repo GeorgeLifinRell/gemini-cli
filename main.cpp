@@ -19,7 +19,7 @@ std::string loadApiKey()
 // Function to save API key to file
 void saveApiKey(const std::string &apiKey)
 {
-    std::ofstream file("config.txt");
+    std::ofstream file(".config.txt");
     if (file)
     {
         file << apiKey;
